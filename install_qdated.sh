@@ -19,7 +19,9 @@ mkdir ~/bin/qdated
 cd ~/bin/qdated
 
 # qdated herunterladen
-wget http://leonardl.de/files/qdated-0.53.tar.gz
+wget http://www.palomine.net/qdated/qdated-0.53.tar.gz
+#mirror:
+#wget http://leonardl.de/files/qdated-0.53.tar.gz
 gunzip qdated-0.53.tar.gz
 tar -xpf qdated-0.53.tar 
 rm qdated-0.53.tar 
